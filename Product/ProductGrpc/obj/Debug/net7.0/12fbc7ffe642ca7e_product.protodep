@@ -1,0 +1,4 @@
+obj\Debug\net7.0\Protos/Product.cs \
+obj\Debug\net7.0\Protos/ProductGrpc.cs: C:/Users/RICARDO/.nuget/packages/grpc.tools/2.49.0/build/native/include/google/protobuf/empty.proto\
+ C:/Users/RICARDO/.nuget/packages/grpc.tools/2.49.0/build/native/include/google/protobuf/timestamp.proto\
+ Protos/product.proto
